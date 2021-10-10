@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DataTimePicker</string>
+    <string name="stringDateFormatExample">2021-10-10</string>
+</resources>
